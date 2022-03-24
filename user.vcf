@@ -5,9 +5,9 @@ N:Mohamed;Rashwan;;;
 FN: Mohamed  Rashwan 
 ORG:Gamma Creations;
 TITLE:Software Engineer
-EMAIL;type=INTERNET;type=WORK;type=pref:morashwan@gamma.com
+EMAIL;type=INTERNET;type=Email;type=pref:morashwan@gamma.com
 TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;69 Soi Sathu Pradit 16\,Bang Khlo\, Bang Kho Laem\, ;;;10120;Bangkok
+item1.ADR;type=ADDRESS;type=pref:;;69 Soi Sathu Pradit 16\,Bang Khlo\, Bang Kho Laem\,;;;10120;Bangkok
 item1.X-ABADR:sg
 item2.URL;type=pref:gammacreations.com
 item2.X-ABLabel:_$!<HomePage>!$_
