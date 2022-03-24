@@ -135,33 +135,33 @@ img.profile-pic {
 }
 
 .bg-color-grey {
-	background-color: #8EC5FC;
-	background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
+	background-color: #171717;
+	
 
 }
 
 .bg-color-white {
-	background-color: white;
+	background-color: #171717;
 }
 
 .text-name {
     font-family: 'Lato', sans-serif;
     font-weight: 400;
-    color: #333333;
+    color: #f1f1f1;
     font-size: 20px;
 }
 
 .text-title-company {
     font-family: 'Lato', sans-serif;
     font-weight: 200;
-    color: #333333;
+    color: #f1f1f1;
     font-size: 12px;
 }
 
 .text-detail {
     font-family: 'Lato', sans-serif;
     font-weight: 300;
-    color: #575757;
+    color: #f1f1f1;
     font-size: 12px;
 }
 
