@@ -5,9 +5,9 @@ N:Michel;Pedenon;;;
 FN: Michel  Pedenon 
 ORG:Gamma Creations Co., Ltd;
 TITLE:Technical Manager
-EMAIL;type=INTERNET;type=Email;type=pref:michel@pradoren.com
+EMAIL;type=INTERNET;type=Email;type=pref:mail@gammacreations.com
 TEL;type=WORK;type=VOICE:+66 81 811 8084
-item1.ADR;type=ADDRESS;type=pref:;;69 Soi Sathu Pradit 16\,Bang Khlo\, Bang Kho Laem\,Bangkok;;;10120;Thailand
+item1.ADR;type=ADDRESS;type=pref:;;69 Soi Sathu Pradit 16\,Bang Khlo\, Bang Kho Laem\,Bangkok;;;10120;
 item1.X-ABADR:sg
 item2.URL;type=pref:gammacreations.com
 item2.X-ABLabel:_$!<HomePage>!$_
