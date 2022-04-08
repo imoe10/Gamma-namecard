@@ -146,15 +146,15 @@ img.profile-pic {
 }
 
 .text-name {
-    font-weight: 400;
+    font-weight: 800;
     color: #f1f1f1;
-    font-size: 26px;
+    font-size: 24px;
     font-family: 'Cinzel', serif;
 }
 
 
 .text-title-company {
-    font-weight: 200;
+    font-weight: 400;
     color: #D7D7D7;
     font-size: 16px;
     font-family: 'Cinzel', serif;
