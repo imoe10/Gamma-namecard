@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&display=swap');
 html,
 body {
   height: 100%;
@@ -149,6 +150,7 @@ img.profile-pic {
     font-weight: 400;
     color: #f1f1f1;
     font-size: 26px;
+    font-family: 'Cinzel', serif;
 }
 
 
@@ -157,6 +159,7 @@ img.profile-pic {
     font-weight: 200;
     color: #D7D7D7;
     font-size: 18px;
+    font-family: 'Cinzel', serif;
 }
 
 .text-title-desc {
@@ -164,6 +167,7 @@ img.profile-pic {
     font-weight: 200;
     color: #D7D7D7;
     font-size: 12px;
+    font-family: 'Cinzel', serif;
 }
 
 .text-detail {
