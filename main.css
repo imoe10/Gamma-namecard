@@ -148,7 +148,7 @@ img.profile-pic {
 .text-name {
     font-weight: 400;
     color: #f1f1f1;
-    font-size: 26px;
+    font-size: 22px;
     font-family: 'Cinzel', serif;
 }
 
@@ -156,14 +156,14 @@ img.profile-pic {
 .text-title-company {
     font-weight: 200;
     color: #D7D7D7;
-    font-size: 18px;
+    font-size: 16px;
     font-family: 'Cinzel', serif;
 }
 
 .text-title-desc {
     font-weight: 200;
     color: #D7D7D7;
-    font-size: 12px;
+    font-size: 11px;
     font-family: 'Cinzel', serif;
 }
 
