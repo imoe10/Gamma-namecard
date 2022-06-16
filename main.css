@@ -206,18 +206,27 @@ img.profile-pic {
   }
 }
 
-.video {
-  margin: 0;
-  width: 100%;
-  height: 0;
-  padding-top: 56.25%;
-  background-color: #ccc;
-  position: relative;
+#videoBG {
+    position:fixed;
+    z-index: -1;
+
+/*not work if the screen ratio is below 16/9*/
+    width:100%;     
+    height: auto;
 }
-.video iframe {
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-  left: 0;
+
+@media (min-aspect-ratio: 16/9) {
+    #videoBG {
+        width:100%;
+        height: auto;
+    }
+}
+@media (max-width: 767px) {
+    #videoBG {
+        display: none;
+    }
+    body {
+        background: url('poster.jpg');
+        background-size: cover;
+    }
 }
