@@ -220,7 +220,7 @@ img.profile-pic {
   position: absolute;
   border-radius: 10px;	
   top: 0;
-  left: 0;
+  left: -5px;
 }
 
 
