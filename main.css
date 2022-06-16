@@ -226,7 +226,7 @@ img.profile-pic {
 #myvideo{
 	height: 100%;
 	width: 100%;
-	position: fixed;
+	position: relative;
 	object-fit: cover;
 	left: 0;
 	right: 0;
