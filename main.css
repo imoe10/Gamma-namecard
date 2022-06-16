@@ -213,6 +213,7 @@ img.profile-pic {
   padding-top: 56.25%;
   background: transparent;
   position: relative;
+  overflow-x:hidden;
 }
 .videoFrame video {
   width: 100%;
